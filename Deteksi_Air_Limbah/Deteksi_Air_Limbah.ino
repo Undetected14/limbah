@@ -22,10 +22,7 @@ void setup() {
   lcd.backlight();
   lcd.clear();
   lcd.noCursor(); 
-  lcd.setCursor(0,0);
-  lcd.print(" M.rahmadhatul zikra");
-  lcd.setCursor(0,1);
-  lcd.print(" 18101152620107 ");
+  
   lcd.setCursor(0,2);
   lcd.print(" ALAT DETEKSI LIMBAH ");
   lcd.setCursor(0,3);
